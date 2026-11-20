@@ -1,0 +1,17 @@
+# Floor Fit: Room Plan Puzzle
+
+> Floor Fit is a free, offline Android puzzle game (package com.floorfit.roomplan). Each level shows an empty house outline and a set of rooms. The player drags every room into the outline so nothing overlaps, every door meets a door in the next room, and one door meets the Main Entrance.
+
+Key facts:
+- 1,500 levels: Easy, Medium, Hard (500 each). Rotation in Medium and Hard.
+- Daily House: a new house every day with a day streak.
+- Blueprint Album: 75 house plans to collect (one per 20 levels).
+- Works fully offline. No account, no sign-in, no server.
+- Free with ads (Google AdMob). Optional Floor Fit Pro weekly subscription via Google Play: no ads, unlimited hints, extra album themes. Cancel anytime in Google Play > Subscriptions.
+- Developer: Syed Sibt Ul Hassan. Support: abigence360solutions@gmail.com
+
+## Pages
+- [Home](https://syedsibt.github.io/floor-fit/): what the game is, how to play, FAQ
+- [Privacy Policy](https://syedsibt.github.io/floor-fit/privacy/)
+- [Terms of Use](https://syedsibt.github.io/floor-fit/terms/)
+- [Google Play](https://play.google.com/store/apps/details?id=com.floorfit.roomplan)
